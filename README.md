@@ -1,4 +1,4 @@
-# -Machine-learning-in-Life-Insurance-Assessment
+# Machine-learning-in-Life-Insurance-Assessment
 Linear regression, Decision tree, SVM model, Python, R
 
 -	Performed data cleaning by filling missing value, transforming binary data, splitting category to binary columns 
